@@ -15,4 +15,4 @@ Ensure you have Python 3.7+ installed on your system.
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/nlp-application.git
+git clone https://github.com/lixmed/nlp-application.git
